@@ -98,3 +98,6 @@ Thumbs.db
 
 # Shortcuts (Windows)
 *.lnk
+
+# Embedded repositories
+runanywhere-sdks/
